@@ -31,8 +31,11 @@ This project analyzes sentiment patterns in Twitter posts to understand public o
 
 ### 📈 Visualizations
 
-* **Histogram**: Displays frequency of each sentiment label.
-* **Pie Chart**: Shows proportional representation of sentiment categories.
+![Image](https://github.com/user-attachments/assets/f52cfd1a-533d-4401-9618-07b24e8313df)
+
+![Image](https://github.com/user-attachments/assets/06e2562f-2895-48ec-98de-812f8abc4ea9)
+
+![Image](https://github.com/user-attachments/assets/0c273163-4e2d-471d-9c7d-c6ea421ffdff)
 
 ---
 
